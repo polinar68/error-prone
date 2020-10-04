@@ -1,3 +1,4 @@
+"COVID19"
 # This workflow downloads and installs the latest version of Xanitizer, builds your project, runs a Xanitizer security analysis on it,
 # and then archives the findings list reports and uploads the findings into the GitHub code scanning alert section of your repository. 
 #
